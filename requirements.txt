@@ -166,3 +166,12 @@ xxhash==3.5.0
 yarl==1.20.1
 zipp==3.23.0
 zstandard==0.24.0
+
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-huggingface
+sentence-transformers
+chromadb
+pypdf
